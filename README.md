@@ -1,3 +1,5 @@
+A personal fork of goballooning/vim-live-latex-preview, to use zathura instead of mupdf as pdf reader.
+
 Note: 
 - `bin/` contains some shell scripts used by the plugin. Add it to your `PATH`.
 - Some code in `ftplugin/tex/live-latex-preview.vim` is commented. That part is not necessary for `pathogen` or `Vundle` users.
